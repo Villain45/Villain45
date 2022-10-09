@@ -8,7 +8,7 @@ Coder, Web Dev
 * ✉️  You can contact me at [prateekhebsur2001@gmail.com](mailto:prateekhebsur2001@gmail.com)
 * 🚀  I'm currently working on [React](http://react.com)
 * 🧠  I'm learning DS and Algo's
-* 🤝  I'm open to collaborating on Open Source
+* 🤝  I'm open to collaborate on Open Source
 * ⚡  Die Alone... Never Beg to be loved
 
 ### Skills
