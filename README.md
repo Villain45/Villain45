@@ -5,10 +5,10 @@ Coder, Web Dev
 --------------
 
 * 🌍  I'm based in Bengaluru
-* ✉️  You can contact me at [prateekhebsur2001@gmail.com](mailto:prateekhebsur2001@gmail.com)
-* 🚀  I'm currently working on [React](http://react.com)
-* 🧠  I'm learning DS and Algo's
-* 🤝  I'm open to collaborate on Open Source
+* ✉️  You can contact me at [v15795500@gmail.com](mailto:v15795500@gmail.com)
+* 🚀  I'm currently working on AI/ML
+* 🧠  Learning DS and Algo's
+* 🤝 Love to contribute for community
 * ⚡  Die Alone... Never Beg to be loved
 
 ### Skills
